@@ -5,7 +5,9 @@
 [![Gmail](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/564859378897911828)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizmaestrelli_/)
 
-![Peixoty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peixoty&show_icons=true&theme=tokyonight)
+![Peixoty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peixoty&show_icons=true&theme=tokyonight&locale=pt-br)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peixoty)](https://github.com/Peixoty/github-readme-stats)
+
 
 ### Tecnologias que uso
 
