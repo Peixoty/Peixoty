@@ -22,4 +22,4 @@
 
 Entusiasta em programação e Startups
 
-![Snake animation](https://github.com/Peixoty/)
+![Snake animation](https://github.com/Peixoty/Peixoty/blob/output/github-contribution-grid-snake.svg)
