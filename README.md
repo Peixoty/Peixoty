@@ -21,3 +21,5 @@
 </div><br/>
 
 Entusiasta em programação e Startups
+
+![Snake animation](https://github.com/Peixoty)
