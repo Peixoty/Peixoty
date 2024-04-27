@@ -12,12 +12,12 @@
 ### Tecnologias que uso
 
 <div style = "display: inline_block"><br/>
-    <img align = "center" alt = "JavaScript" height = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-    <img align = "center" alt = "React" height = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
-    <img align = "center" alt = "Python" height = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-    <img align = "center" alt = "MySQL" height = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-    <img align = "center" alt = "Node.js" height = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
-    <img align = "center" alt = "C" height = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+    <img align = "center" alt = "JavaScript" height = 60 width = 80 src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img align = "center" alt = "React" height = 60 width = 80 src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
+    <img align = "center" alt = "Python" height = 60 width = 80 src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+    <img align = "center" alt = "MySQL" height = 60 width = 80 src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align = "center" alt = "Node.js" height = 60 width = 80 src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
+    <img align = "center" alt = "C" height = 60 width = 80 src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 </div><br/>
 
 Entusiasta em programação e Startups
