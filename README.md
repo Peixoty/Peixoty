@@ -1,4 +1,4 @@
-# Eae! Eu sou o Luiz Henrique Maestrelli 🌊🐟
+# Eae! Eu sou o Luiz H. Maestrelli 🌊🐟
 ### 🖥️ Entusiasta em programação e Startups<br>
 🔭Projeto atual: oBarbero<br>💡 Atualmente aprendendo: JavaScript e React Native<br>
 
