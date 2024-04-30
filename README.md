@@ -22,7 +22,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
+## ⚙️ Linguagens que utilizo
 <div style = "display: inline_block"><br/>
     <img align = "center" alt = "JavaScript" height = 60 width = 80 src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
     <img align = "center" alt = "React" height = 60 width = 80 src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
