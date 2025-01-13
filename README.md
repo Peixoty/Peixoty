@@ -1,6 +1,6 @@
 # Eae! Eu sou o Luiz H. Maestrelli 🌊🐟
 ### 🖥️ Entusiasta em programação e Startups<br>
-🔭 Projeto atual: oBarbero<br>💡 Atualmente aprendendo: JavaScript e React Native<br>
+🔭 Projeto atual: Investty<br>💡 Atualmente aprendendo: JavaScript e Typescript<br>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/31992588917)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maestrellipeixoto@gmail.com)
